@@ -1,7 +1,0 @@
-spec:
- name: coldboc-simple
- services:
- - name: web
-   git:
-     branch: master
-     repo_clone_url: https://github.com/gpickin/coldboc-simple.git

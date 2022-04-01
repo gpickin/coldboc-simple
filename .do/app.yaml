@@ -1,8 +1,0 @@
-name: coldboc-simple
-services:
-- dockerfile_path: Dockerfile
-  github:
-    branch: master
-    deploy_on_push: true
-    repo: gpickin/coldboc-simple
-  name: coldboc-simple
